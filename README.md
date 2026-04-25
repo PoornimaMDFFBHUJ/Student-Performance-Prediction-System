@@ -167,10 +167,4 @@ The system generates a scatter plot showing:
 
 This project demonstrates how Machine Learning can be used to predict student performance and assist educational institutions in making smarter, data-driven decisions.
 
----
 
-## 👩‍💻 Author
-
-* Your Name
-
----

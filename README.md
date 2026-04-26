@@ -1,6 +1,6 @@
 Student Performance Prediction System
 
-## 📌 Overview
+Overview
 
 The **Student Performance Prediction System** is a Machine Learning project that predicts whether a student will **Pass or Fail** based on academic factors such as study hours, attendance, and previous marks.
 
@@ -8,7 +8,7 @@ This system helps educators identify **at-risk students early** and take necessa
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 * Predict student performance (Pass/Fail)
 * Identify weak students early
@@ -17,7 +17,7 @@ This system helps educators identify **at-risk students early** and take necessa
 
 ---
 
-## 🧠 Technologies Used
+ Technologies Used
 
 * **Python**
 * **Pandas**
@@ -29,7 +29,7 @@ This system helps educators identify **at-risk students early** and take necessa
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 Student-Performance-Prediction/
@@ -42,7 +42,7 @@ Student-Performance-Prediction/
 
 ---
 
-## 📊 Dataset
+ Dataset
 
 The dataset contains student-related features:
 
@@ -55,29 +55,29 @@ The dataset contains student-related features:
 
 ---
 
-## ⚙️ How to Run
-
-### 1️⃣ Clone Repository
+ How to Run
+ 
+ Clone Repository
 
 ```
 git clone https://github.com/your-username/Student-Performance-Prediction.git
 cd Student-Performance-Prediction
 ```
 
-### 2️⃣ Create Virtual Environment
+ Create Virtual Environment
 
 ```
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3️⃣ Install Dependencies
+ Install Dependencies
 
 ```
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
-### 4️⃣ Run Project
+ Run Project
 
 ```
 python main.py
@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-## 💻 Sample Output
+Output
 
 ```
 Enter Student Details:
@@ -100,7 +100,7 @@ Prediction Result: Pass
 
 ---
 
-## 📊 Visualization
+Visualization
 
 * Scatter plot showing relationship between:
 

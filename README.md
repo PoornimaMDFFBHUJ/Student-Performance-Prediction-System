@@ -109,44 +109,9 @@ Prediction Result: Pass
 
 ---
 
-## 🚀 Features
-
-* Machine Learning-based prediction
-* User input via terminal
-* Data visualization
-* Simple and beginner-friendly implementation
+Author
+Student Performance Prediction System  - poornima M
 
 ---
-
-## ✅ Advantages
-
-* Early identification of weak students
-* Data-driven decision making
-* Saves time for teachers
-* Improves student performance
-
----
-
-## ⚠️ Limitations
-
-* Requires good quality dataset
-* Accuracy depends on data size
-* Does not consider psychological factors
-
----
-
-## 🔮 Future Enhancements
-
-* GUI-based application (Tkinter)
-* Web application using Flask
-* Real-time tracking system
-* Advanced ML models (Random Forest, SVM)
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how Machine Learning can be applied in the education sector to predict student performance and improve decision-making.
-
 
 
